@@ -1,6 +1,6 @@
-# Stellar Notes DApp
 
-**Study Plan** - Blockchain-Based Decentralized Note-Taking System
+
+# Study Plan 
 
 ## Project Description
 
