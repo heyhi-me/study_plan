@@ -29,3 +29,5 @@ A decentralized study planning application built on the Stellar blockchain using
 ## ID Smart Contract Testnet
 
 CCIINTLOIWWPVZXFI2UEB7PPB5U2MPCAM7RP7VJUTFU6HNSINJTSKWLR
+
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/73f907aa-cfcc-427e-afad-3dc56f388ba6" />
